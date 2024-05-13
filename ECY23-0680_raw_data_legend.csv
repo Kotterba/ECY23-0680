@@ -1,0 +1,25 @@
+variable;description
+season;year and season when the fish was sampled
+date;catch date (YYYYMMDD)
+device;catch device GN = gill net. FR = fishing rod
+station_id;station where the fish was caught
+lat_dd;latitude of sampling station (decimal degrees)
+lon_dd;longitude of sampling station (decimal degrees)
+predator;predator species (herring)
+fish_id;sampled fish id (running number per sampling day)
+TL_cm;total length of the predator (measured in cm below)
+TW_g;total weight of the predator (measured in gram)
+sc_weight_g;total stomach content weight of the sampled fish (measured in milligram)
+sc_Amphipoda;Amphipoda in the stomac content (mg)
+sc_Caridae;Caridae in the stomac content (mg)
+sc_Idotea sp.;Idotea sp. In the stomach content (mg)
+sc_Mysidae;Mysidae in the stomac content (mg)
+sc_Copepoda;Copepoda in the stomac content (mg)
+sc_Insecta;Insecta in the stomac content (mg)
+sc_other inv;other and unidentified invertebrates In the stomach content (mg)
+sc_Clupea harengus;herring in the stomach content (mg)
+sc_Osmerus eperlanus;smelt in the stomach content (mg)
+sc_Pomatoschistus sp.;Pomatoschistus sp. In the stomach content (mg)
+sc_unknown_fish ;unidentified fish in the stomac content (mg)
+unknown_prey;unidentified prey in the stomac content (mg)
+notes;additional information concerning the individual predator or the stomach content
